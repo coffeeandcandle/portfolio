@@ -1014,8 +1014,8 @@ button[disabled] {
 }
 
 .contactLink {
-  font-weight: 700;
-  font-size: 84px;
+  font-weight: 400;
+  font-size: 34px;
   line-height: 1.5;
   color: #000000;
   margin-bottom: 5px;
