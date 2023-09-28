@@ -3,7 +3,7 @@ export const data = [
         id: 1,
         linkName: 'ART-Design Group',
         projectName: 'ART Design Group',
-        headerImage: require('/Users/adam/Desktop/coffeeandcandle-main/src/assets/ART Design Group Work Portfolio Image.jpg'),
+        headerImage: require('/src/assets/ART Design Group Work Portfolio Image.jpg'),
         textBox: [{ Client: 'ART Design Group' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Brand Identity; Brand Strategy;' }, {
             Awards: `ICE NW Civil Engineering Special Recognition Award;
         Longlisted – Dezeen Awards 2022;
