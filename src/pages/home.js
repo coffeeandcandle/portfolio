@@ -39,7 +39,7 @@ function Home() {
                 <div className="container">
 
                     <div className="bannertitle"> 
-                            <h1 className="bigtext">From ipdea <br/> to reality</h1>
+                            <h1 className="bigtext">From idea <br/> to reality</h1>
 
                     </div>
 
