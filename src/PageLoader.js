@@ -25,6 +25,7 @@ function PageLoader() {
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<NavBar />} >
+                    <Route path='/' element={<Navigate to="/home" />} />
                     <Route path='/home' element={<Home />} />
                     <Route path='/work' element={<Work />} />
                     <Route path='/test' element={<DynamicPage />} />
