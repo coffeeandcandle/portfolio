@@ -25,7 +25,7 @@ function PageLoader() {
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<NavBar />} >
-                    <Route path='/home' element={<Home />} />
+                    <Route index element={<Home />} /> {/* Home page now loads at the root */}
                     <Route path='/work' element={<Work />} />
                     <Route path='/test' element={<DynamicPage />} />
                     <Route path='/agency' element={<Agency />} />
@@ -33,7 +33,7 @@ function PageLoader() {
                     <Route path='/get-in-touch' element={<GetInTouch />} />
                     <Route path='/privacypolicy' element={<PrivacyPolicy />} />
                     {routes}
-                    <Route path="*" element={<Navigate to="/home" replace />} />
+                    <Route path="*" element={<Navigate to="/" replace />} />
                 </Route>
 
             </Routes>
