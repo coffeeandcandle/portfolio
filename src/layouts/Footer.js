@@ -5,7 +5,7 @@ function Footer({ color, bg }) {
     return (
 
         <footer className='footerMain' >
-            <div className='container'>
+            <div className='container' style="padding-bottom: 10px;">
                 <p className="copyRight text-center"><a href="#">Terms and Conditions</a> | <Link to="/privacypolicy">Privacy
                     Policy</Link> | Copyright &copy; 2023 <a href="index.html">Coffee & Candle</a> All rights
                     reserved.
