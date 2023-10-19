@@ -37,7 +37,7 @@
 
 @media (max-width: 780px) {
 
-    section.panel.fitscreenSec.bannerSec.blueBg {
+    section.panel.bannertitle {
         font-size: 160px;
         line-height: 0.9em;
     }
