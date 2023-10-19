@@ -760,7 +760,7 @@ button[disabled] {
 .iconBox .iconBoxTitle {
   display: block;
   width: 100%;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   color: #000;
 }
@@ -839,7 +839,8 @@ button[disabled] {
 /* creative agency title */
 
 .creativeAgencyTitle {
-  font-size: 50px !important;
+  font-size: 63px !important;
+  margin-bottom: 70px;
 }
 
 
