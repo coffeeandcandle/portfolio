@@ -38,8 +38,9 @@
 @media (max-width: 780px) {
 
     .bannertitle {
-        font-size: 160px;
-        line-height: 0.7em;
+        font-size: 140px;
+        line-height: 0.9em;
+        margin-top: 70px
     }
 
     .grid {
