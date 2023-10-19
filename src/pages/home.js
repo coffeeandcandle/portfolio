@@ -124,7 +124,7 @@ function Home() {
             <section className="panel fitscreenSec blueBg iconSection" style={{padding:"0px"}}>
 
                 <div className="container-fluid" style=
-    {{paddingTop: "100px"}}>
+    {{paddingTop: "120px"}}>
 
                     <div>
 
