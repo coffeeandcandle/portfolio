@@ -295,7 +295,7 @@ function Home() {
 
                     <div className="simpleContentInner wow fade-in-element"  style={{ animationDelay: '0.6s' }}>
 
-                        <p className="simpleContentInner wow fade-in-element title new"> A creative agency with an established heritage </p>
+                        <h4 className="simpleContentInner wow fade-in-element title new"> A creative agency with an established heritage </h4>
 
                         <p>We are a cutting-edge digital design agency that converges design, strategy, and execution. Our focus are startups and revolutionary ideas that shape the world. We present brands in their purest and most strategic form, adhering to a minimalistic and results-driven approach to branding, design, and user experience. Our commitment to advanced data methodologies sets us apart in the commercial sector.
                         </p>
