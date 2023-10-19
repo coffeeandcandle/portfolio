@@ -280,8 +280,8 @@ function Home() {
 
                         </div>
 
-                        <p className="text-center wow fade-in-element"  style={{ animationDelay: '2.5s',paddingTop: "100px" }}><Link className="link"
-                            to='/get-in-touch'>Start the process</Link></p>
+                        <h4 ><Link className="link"
+                            to='/get-in-touch'>Start the process</Link></h4>
 
                     </div>
 
