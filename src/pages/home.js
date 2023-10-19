@@ -302,7 +302,7 @@ function Home() {
 
                         <p>No idea is too big or too small; it's the vision that truly counts. We align ourselves with those who share our perspective, fostering collaboration and embracing limitless possibilities.</p>
 
-                        <div className="btn">
+                        <div className="agency">
 
                             <Link to='/agency'>The agency</Link>
 
