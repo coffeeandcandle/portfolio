@@ -37,7 +37,7 @@
 
 @media (max-width: 780px) {
 
-    section.bannertitle {
+    .bannertitle {
         font-size: 200px;
         line-height: 0.7em;
     }
