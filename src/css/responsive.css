@@ -506,9 +506,15 @@
 
 
 
-/*.secTitle, .sectionFour .secTitle{font-size: 20px;margin-bottom: 35px;}*/
+.secTitle, .sectionFour .secTitle{
+    
+    font-size: 36px;
+    margin-bottom: 10px;}
 
-.sectionFour .iconBox .iconImg{height: 50px;margin-bottom: 10px;}
+.sectionFour .iconBox .iconImg{
+    
+    height: 50px;
+    margin-bottom: 10px;}
 
 .sectionFour .iconBox .iconImg img {
 
