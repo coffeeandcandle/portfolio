@@ -823,6 +823,10 @@ button[disabled] {
 
 /* start the process H4*/
 
+.starttheprocess {
+  text-align: center;
+}
+
 .linkstart {
   font-size: 50px;
   color: #000 !important;
