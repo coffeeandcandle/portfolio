@@ -825,6 +825,9 @@ button[disabled] {
 
 .linkstart {
   font-size: 50px;
+  color: #000;
+  display: inline-block;
+  font-weight: 400;
 }
 
 
