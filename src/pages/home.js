@@ -280,7 +280,7 @@ function Home() {
 
                         </div>
 
-                        <h4 className="starttheprocess" ><Link className="link"
+                        <h4 className="starttheprocess" ><Link className="linkstart"
                             to='/get-in-touch'>Start the process</Link></h4>
 
                     </div>
