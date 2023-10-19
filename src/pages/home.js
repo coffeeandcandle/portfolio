@@ -134,7 +134,7 @@ function Home() {
 
                         <div className="iconBoxList">
 
-                            <div className={`iconBox fade-in-element`} style={{ animationDelay: '0.2s' }}>
+                            <div className={`iconBox fade-in-element`}>
 
                                 <div className="iconImg">
 
@@ -146,7 +146,7 @@ function Home() {
 
                             </div>
 
-                            <div className={`iconBox fade-in-element`} style={{ animationDelay: '0.4s' }}>
+                            <div className={`iconBox fade-in-element`} >
 
                                 <div className="iconImg">
 
@@ -158,7 +158,7 @@ function Home() {
 
                             </div>
 
-                            <div className={`iconBox fade-in-element`} style={{ animationDelay: '0.6s' }}>
+                            <div className={`iconBox fade-in-element`} >
 
                                 <div className="iconImg">
 
@@ -170,7 +170,7 @@ function Home() {
 
                             </div>
 
-                            <div className={`iconBox fade-in-element`} style={{ animationDelay: '0.8s' }}>
+                            <div className="iconBox fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -182,7 +182,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox fade-in-element" style={{ animationDelay: '1s' }}>
+                            <div className="iconBox fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -194,7 +194,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element" style={{ animationDelay: '1.2s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -206,7 +206,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element" style={{ animationDelay: '1.4s' }}>
+                            <div className="iconBox wow fade-in-element">
 
                                 <div className="iconImg">
 
@@ -218,7 +218,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '1.6s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -230,7 +230,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '1.8s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -242,7 +242,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox iconTwo wow fade-in-element"  style={{ animationDelay: '2s' }}>
+                            <div className="iconBox iconTwo wow fade-in-element"  >
 
                                 <div className="iconImg">
 
@@ -254,7 +254,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '2.2s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -266,7 +266,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '2.4s' }}>
+                            <div className="iconBox wow fade-in-element">
 
                                 <div className="iconImg">
 
