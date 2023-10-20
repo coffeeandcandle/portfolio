@@ -437,6 +437,11 @@
     padding: 0 20px;
 }
 
+.linkExplore {
+    font-size: 36px;
+    color: #000;
+}
+
 
 .iconSection .container-fluid{display: flex;flex-wrap: wrap;align-items: center;justify-content: center;}
 
