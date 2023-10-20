@@ -400,7 +400,7 @@ function Home() {
 
                             
                         </div>
-                        <p className="text-center wow fade-in-element"  ><Link className="link"
+                        <p className="text-center wow fade-in-element"  ><Link className="linkExplore"
                             to='/get-in-touch'>Explore our work</Link></p>
                     </div>
                 </div>
