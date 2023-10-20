@@ -851,6 +851,15 @@ button[disabled] {
   padding-top: 25px;
 }
 
+
+
+/* Worldwide coverage */
+
+.textUnderIcons {
+  color: #000;
+  font-size: 22px;
+}
+
 /* */
 
 .stepHed {
