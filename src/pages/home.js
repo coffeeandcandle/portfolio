@@ -321,7 +321,7 @@ function Home() {
                     <div>
 
                         <h2 className="secTitle wow fade-in-element"  >Worldwide Coverage</h2>
-
+                            <p>Lorum Ipsiimsdjinijfnvi sdibsdicbiusbd isdciuhsadu isduhvdsu</p>
 
 
                         <div className="iconBoxList">
