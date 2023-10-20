@@ -293,7 +293,7 @@ function Home() {
 
                 <div className="container">
 
-                    <div className="simpleContentInner wow fade-in-element"  style={{ animationDelay: '0.6s' }}>
+                    <div className="simpleContentInner wow fade-in-element"  >
 
                         <h4 className="creativeAgencyTitle"> A creative agency with an established heritage </h4>
 
@@ -320,13 +320,13 @@ function Home() {
 
                     <div>
 
-                        <h2 className="secTitle wow fade-in-element"  style={{ animationDelay: '0.1s' }}>Worldwide Coverage</h2>
+                        <h2 className="secTitle wow fade-in-element"  >Worldwide Coverage</h2>
 
 
 
                         <div className="iconBoxList">
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '0.4s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -338,7 +338,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '0.6s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -350,7 +350,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '0.8s' }}>
+                            <div className="iconBox wow fade-in-element"  >
 
                                 <div className="iconImg">
 
@@ -362,7 +362,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '1.2s' }}>
+                            <div className="iconBox wow fade-in-element" >
 
                                 <div className="iconImg">
 
@@ -374,7 +374,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '1.4s' }}>
+                            <div className="iconBox wow fade-in-element"  >
 
                                 <div className="iconImg">
 
@@ -386,7 +386,7 @@ function Home() {
 
                             </div>
 
-                            <div className="iconBox wow fade-in-element"  style={{ animationDelay: '1.6s' }}>
+                            <div className="iconBox wow fade-in-element"  >
 
                                 <div className="iconImg">
 
@@ -400,7 +400,7 @@ function Home() {
 
                             
                         </div>
-                        <p className="text-center wow fade-in-element"  style={{ animationDelay: '1.9s' }}><Link className="link"
+                        <p className="text-center wow fade-in-element"  ><Link className="link"
                             to='/get-in-touch'>Explore our work</Link></p>
                     </div>
                 </div>
@@ -408,9 +408,9 @@ function Home() {
             <section className="fitscreenSec stepSec blueBg d-flex align-items-center">
                 <div className="container">
                     <div className="stepCon text-center">
-                        <h2 className="stepHed wow fade-in-element"  style={{ animationDelay: '0.5s' }}>We are just a few
+                        <h2 className="stepHed wow fade-in-element" >We are just a few
                             steps away..</h2>
-                        <p className="wow fade-in-element"  style={{ animationDelay: '0.5s' }}>Get the ball rolling</p>
+                        <p className="wow fade-in-element" >Get the ball rolling</p>
                     </div>
                 </div>
                 <Footer color='white'/>
