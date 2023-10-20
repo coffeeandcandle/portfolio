@@ -858,6 +858,8 @@ button[disabled] {
 .textUnderIcons {
   color: #000;
   font-size: 22px;
+  max-width: 1245px;
+  text-align: center;
 }
 
 /* */
