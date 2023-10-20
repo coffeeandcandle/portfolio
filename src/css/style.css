@@ -829,7 +829,7 @@ button[disabled] {
 }
 
 .linkstart {
-  font-size: 32px;
+  font-size: 28px;
   color: #000 !important;
   display: inline-block;
   font-weight: 400;
@@ -846,7 +846,9 @@ button[disabled] {
 
 /* The agency button */
 
-
+.agency {
+  font-size: 28px;
+}
 
 /* */
 
