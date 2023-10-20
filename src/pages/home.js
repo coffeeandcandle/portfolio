@@ -321,6 +321,7 @@ function Home() {
                     <div>
 
                         <h2 className="secTitle wow fade-in-element"  >Worldwide Coverage</h2>
+                        <p className="textUnderIcons">In the ever-evolving world of digital design, staying ahead is not just an aspiration, but a necessity. At Coffee and Candle, we're constantly sipping on inspiration to keep our designs fresh and our ideas innovative. Our team of experts knows the pulse of London's creative scene, and we infuse that vibrancy into every project we touch. But what truly sets us apart is our ability to connect with clients all around the world. With a digital-first approach, we transcend geographical boundaries, ensuring that our creative magic can reach you, no matter where you are. From responsive web designs that shine on any device to digital marketing strategies that make your brand an online sensation, we're your compass through the digital wilderness, accessible to clients globally. When you choose Coffee and Candle, you're not just investing in a design agency; you're investing in a journey towards digital excellence that knows no borders. Your brand's success story starts here, and we're excited to be a part of it, no matter where in the world you are.</p>
 
 
                         <div className="iconBoxList">
@@ -399,7 +400,6 @@ function Home() {
 
                             
                         </div>
-                        <p className="textUnderIcons">Lorum Ipsiimsdjinijfnvi sdibsdicbiusbd isdciuhsadu isduhvdsu</p>
                         <p className="text-center wow fade-in-element"  ><Link className="link"
                             to='/get-in-touch'>Explore our work</Link></p>
                     </div>
