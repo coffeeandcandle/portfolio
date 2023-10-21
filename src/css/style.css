@@ -851,6 +851,12 @@ button[disabled] {
   padding-top: 25px;
 }
 
+/* Explore our work */
+
+.linkExplore {
+  font-size: 28px;
+  color: #000;
+}
 
 
 /* Worldwide coverage */
