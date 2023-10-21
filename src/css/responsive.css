@@ -294,7 +294,12 @@
 
 /*ms*/
 
-.container-fluid, .container {padding: 0 20px;}
+.container-fluid, .container {
+    
+    padding: 0 20px;
+    margin-bottom: 10px;
+
+}
 
 .bannerImg {max-width: 100%; height: 100%;}
 
