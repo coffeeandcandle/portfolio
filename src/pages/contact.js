@@ -11,8 +11,6 @@ function Contact() {
 
                     <div className="contactMain">
 
-                        <h2 className="panel contactTitle wow fadeInUp" data-wow-duration="0.15" data-wow-delay="0.0s">Lets connect..</h2>
-
                         <div className="panel contactInfoMain">
 
                             <div className=" contactInfo wow fadeInUp" data-wow-duration="0.15" data-wow-delay="0.3s">
