@@ -121,10 +121,10 @@ export const data = [
     },
     {
         id: 7,
-        linkName: 'Elevate Tutors',
-        projectName: 'Elevate Tutors',
+        linkName: 'Bab al Yemen',
+        projectName: 'Bab al Yemen',
         headerImage: require('../Place Holder Images/Manchester_1.jpeg'),
-        textBox: [{ Client: 'Elevate Tutors' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Lorem Ipsum; Lorem Ipsum; Lorem Ipsum; Lorem Ipsum' }, {
+        textBox: [{ Client: 'Bab al Yemen' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Lorem Ipsum; Lorem Ipsum; Lorem Ipsum; Lorem Ipsum' }, {
             Awards: `ICE NW Civil Engineering Special Recognition Award;
         Longlisted – Dezeen Awards 2022;
         International Loop Design – People’s Choice Awards`}, { Photography: 'Matt Bell' }],
@@ -141,8 +141,8 @@ export const data = [
     },
     {
         id: 8,
-        linkName: 'Gate of Yemen',
-        projectName: 'Gate of Yemen',
+        linkName: 'Elevate Tutors',
+        projectName: 'Elevate Tutors',
         headerImage: require('../Place Holder Images/Manchester_1.jpeg'),
         textBox: [{ Client: 'The Manchester Memorial Trust' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Lorem Ipsum; Lorem Ipsum; Lorem Ipsum; Lorem Ipsum' }, {
             Awards: `ICE NW Civil Engineering Special Recognition Award;
