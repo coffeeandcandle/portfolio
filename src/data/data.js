@@ -123,7 +123,7 @@ export const data = [
         id: 7,
         linkName: 'Bab al Yemen',
         projectName: 'Bab al Yemen',
-        headerImage: require('../Place Holder Images/Manchester_1.jpeg'),
+        headerImage: require('../assets/Bab-yemen-1.jpg'),
         textBox: [{ Client: 'Bab al Yemen' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Lorem Ipsum; Lorem Ipsum; Lorem Ipsum; Lorem Ipsum' }, {
             Awards: `ICE NW Civil Engineering Special Recognition Award;
         Longlisted – Dezeen Awards 2022;
