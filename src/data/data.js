@@ -143,7 +143,7 @@ export const data = [
         id: 8,
         linkName: 'Elevate Tutors',
         projectName: 'Elevate Tutors',
-        headerImage: require('../Place Holder Images/Manchester_1.jpeg'),
+        headerImage: require('../assets/Elevate-1.jpg'),
         textBox: [{ Client: 'The Manchester Memorial Trust' }, { Partnership: 'BCA Landscape' }, { 'What We Did': 'Lorem Ipsum; Lorem Ipsum; Lorem Ipsum; Lorem Ipsum' }, {
             Awards: `ICE NW Civil Engineering Special Recognition Award;
         Longlisted – Dezeen Awards 2022;
