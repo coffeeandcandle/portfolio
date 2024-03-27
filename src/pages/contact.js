@@ -32,7 +32,7 @@ function Contact() {
 
                                             <p className="wow fadeInUp mailNow" data-wow-duration="0.15" data-wow-delay="0.11s"><a
 
-                                                href="tel:+44 20 3655 9999">+44 20 3655 9999</a></p>
+                                                href="tel:+44 74 1832 4550">+44 74 1832 4550</a></p>
 
                                         </div>
 
