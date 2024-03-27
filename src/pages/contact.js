@@ -52,7 +52,7 @@ function Contact() {
 
                                             <p className="wow fadeInUp mailNow" data-wow-duration="0.15" data-wow-delay="0.9s"><a
 
-                                                href="tel:+44 78 8443 3414">+44 78 8443 3414</a></p>
+                                                href="tel:+44 74 5120 5169">+44 74 5120 5169</a></p>
 
                                             <p><a className="mailNow wow fadeInUp"
 
