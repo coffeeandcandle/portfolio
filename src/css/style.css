@@ -1166,7 +1166,7 @@ button[disabled] {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #000;
+  background: #DFE2E0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
