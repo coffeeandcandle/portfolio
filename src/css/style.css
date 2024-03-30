@@ -723,7 +723,7 @@ button[disabled] {
   font-size: 63px;
   font-weight: 400;
   line-height: 1.4;
-  color: #000;
+  color: #143642;
   margin-bottom: 70px;
 }
 
@@ -1270,11 +1270,11 @@ body.dark .headerMain.has_sticky {
 .simpleContent .simpleContentInner {
   max-width: 1245px;
   text-align: center;
-  color: #000;
+  color: #143642;
 }
 
 .simpleContentInner p {
-  color: #000;
+  color: #143642;
   font-size: 24px;
   font-weight: 400;
 }
@@ -1292,7 +1292,7 @@ body.dark .headerMain.has_sticky {
 
 .simpleContentInner .btn a {
   font-size: 24px;
-  color: #000000;
+  color: #143642;
   line-height: 1;
 }
 
