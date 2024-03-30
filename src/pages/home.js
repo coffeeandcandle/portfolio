@@ -40,7 +40,7 @@ function Home() {
 
                     <div className="bannertitle"> 
                             <h1 className="bigtext">From idea<br/> to reality</h1>
-
+                            <p className='smalltext'>Contact us</p>
                     </div>
 
                 </div>
