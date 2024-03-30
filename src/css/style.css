@@ -1302,7 +1302,7 @@ body.dark .headerMain.has_sticky {
 
 .blueBg {
   background: /*url(../assets/black-pattern.png) no-repeat center center / cover*/ #fff;
-  background: /*url(../img/patter-bg.png) no-repeat center center */ #fff; 
+  background: /*url(../img/patter-bg.png) no-repeat center center */ #dfe2e0; 
  /* background-attachment: fixed;*/
 }
 
