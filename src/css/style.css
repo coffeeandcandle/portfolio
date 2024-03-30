@@ -209,7 +209,7 @@ html {
 }
 
 body {
-  color: #000;
+  color: #143642;
   background-color: #dfe2e0;
   font-family: "Futura PT", sans-serif;
   font-weight: 400;
@@ -287,8 +287,8 @@ img {
   min-width: 277px;
   padding: 12px 10px;
   background-color: transparent;
-  color: #000;
-  border: 2px solid #000;
+  color: #143642;
+  border: 2px solid #143642;
   border-radius: 15px;
   font-size: 24px;
   line-height: 1.2;
@@ -305,7 +305,7 @@ img {
 
 .btn:hover {
   background: #fff;
-  color: #000;
+  color: #143642;
 }
 
 .btn-filled {
@@ -346,7 +346,7 @@ button[disabled] {
   display: inline-block;
   font-size: 22px;
   font-weight: 400;
-  color: #000;
+  color: #143642;
   transition: all 0.4s ease-in-out;
 }
 
@@ -656,11 +656,11 @@ button[disabled] {
 .footerMain div p {
   font-weight: 400;
   font-size: 14px;
-  color: #000;
+  color: #143642;
 }
 
 .contact2 .footerMain p {
-  color: #000;
+  color: #143642;
 }
 
 .fitscreenSec.d-flex .footerMain {
@@ -830,7 +830,7 @@ button[disabled] {
 
 .linkstart {
   font-size: 28px;
-  color: #000 !important;
+  color: #143642 !important;
   display: inline-block;
   font-weight: 400;
 }
@@ -855,14 +855,14 @@ button[disabled] {
 
 .linkExplore {
   font-size: 28px;
-  color: #000;
+  color: #143642;
 }
 
 
 /* Worldwide coverage */
 
 .textUnderIcons {
-  color: #000;
+  color: #143642;
   font-size: 22px;
   max-width: 1245px;
   text-align: center;
@@ -875,14 +875,14 @@ button[disabled] {
   font-weight: 400;
   font-size: 64px;
   line-height: 1.8;
-  color: #000;
+  color: #143642;
   margin-bottom: 20px;
 }
 
 .stepCon p {
   font-size: 22px;
   line-height: 2.2;
-  color: #000;
+  color: #143642;
   margin-bottom: 10px;
 }
 
@@ -903,7 +903,7 @@ button[disabled] {
 }
 
 .stepCon .btn:hover {
-  color: #000;
+  color: #143642;
   background-color: #fff;
 }
 
@@ -1027,14 +1027,14 @@ button[disabled] {
 
 .wrapper.contact2,
 .wrapper.agency2 {
-  background: #000;
+  background: #143642;
 }
 
 .contactTitle {
   font-family: 'Futura PT';
   font-weight: 400;
   font-size: 64px;
-  color: #000;
+  color: #143642;
   line-height: 1.5;
   margin-bottom: 20px;
   text-align: center;
@@ -1141,7 +1141,7 @@ button[disabled] {
 .menuIcon::before {
   position: absolute;
   content: '';
-  background: #000;
+  background: #143642;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -1157,7 +1157,7 @@ button[disabled] {
 
 .menuIcon:hover span::after,
 .menuIcon:hover span::before {
-  background-color: #000;
+  background-color: #143642;
 }
 
 .navMenu {
@@ -1240,7 +1240,7 @@ body.dark .headerMain.has_sticky {
 }
 
 .dark .footerMain p {
-  color: #000;
+  color: #143642;
 }
 
 .dark .socialMeadia,
@@ -1359,7 +1359,7 @@ body#sec2 .work2 .footerMain {
 
 
 button.slick-prev.slick-arrow .workWhite {
-  border-color: #000 !important;
+  border-color: #143642 !important;
 }
 
 
@@ -1393,7 +1393,7 @@ button.slick-prev.slick-arrow .workWhite {
   font-weight: 400;
   font-family: 'Futura PT';
   font-size: 64px;
-  color: #000;
+  color: #143642;
   line-height: 0.6;
   padding-left: 150px
 }
@@ -1401,7 +1401,7 @@ button.slick-prev.slick-arrow .workWhite {
 .agencyDec {
   font-weight: 400;
   font-size: 24px;
-  color: #000;
+  color: #143642;
   line-height: 1.5;
   margin: 20px 0 15px;
   padding-left: 150px
@@ -1440,7 +1440,7 @@ button.slick-prev.slick-arrow .workWhite {
 .agencyCon .accordion-header .accordion-button {
   font-weight: 400;
   font-size: 18px;
-  color: #000;
+  color: #143642;
   line-height: 1.5;
   text-decoration: underline;
   border-radius: 0;
@@ -1454,7 +1454,7 @@ button.slick-prev.slick-arrow .workWhite {
   font-weight: 500;
   font-size: 30px;
   line-height: 1.5;
-  color: #000;
+  color: #143642;
   padding-bottom: 40px;
 }
 
@@ -1462,7 +1462,7 @@ button.slick-prev.slick-arrow .workWhite {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.33;
-  color: #000;
+  color: #143642;
 }
 
 
@@ -1481,7 +1481,7 @@ button.slick-prev.slick-arrow .workWhite {
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.5px;
-  color: #000;
+  color: #143642;
   margin-bottom: 20px;
 }
 
@@ -1489,11 +1489,11 @@ button.slick-prev.slick-arrow .workWhite {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.4;
-  color: #000;
+  color: #143642;
 }
 
 .agencySubCon .btn:hover {
-  background: #000;
+  background: #143642;
   color: #fff;
 }
 
@@ -1504,7 +1504,7 @@ button.slick-prev.slick-arrow .workWhite {
 
 .agencySubCon .btn.sub-btn:hover {
   background: transparent;
-  color: #000;
+  color: #143642;
 }
 
 .agency2 .footerMain {
@@ -1514,7 +1514,7 @@ button.slick-prev.slick-arrow .workWhite {
 
 
 .agencyFoot.footerMain p {
-  color: #000;
+  color: #143642;
 }
 
 
