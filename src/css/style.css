@@ -1369,7 +1369,7 @@ button.slick-prev.slick-arrow .workWhite {
 .fitscreenSec.agencySec {
   height: auto;
   padding-bottom: 0;
-  background:/* url(../assets/black-pattern.png) no-repeat center center / cover*/ #fff;
+  background:/* url(../assets/black-pattern.png) no-repeat center center / cover*/ #DFE2E0;
   /*background-attachment: fixed;*/
 }
 
@@ -1468,7 +1468,7 @@ button.slick-prev.slick-arrow .workWhite {
 
 .agencySub {
   height: auto !important;
-  background: #fff;
+  background: #DFE2E0;
 }
 
 .agencySubCon {
