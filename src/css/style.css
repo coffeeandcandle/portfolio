@@ -582,7 +582,7 @@ button[disabled] {
 }
 
 .headerMain.has_sticky {
-  background: #ffffff87;
+  background: #e0e2e000;
   backdrop-filter: saturate(180%) blur(10px);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   padding: 0px 0;
